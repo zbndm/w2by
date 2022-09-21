@@ -27,6 +27,7 @@
 		]
 	},
 	"devDependencies": {
+		"1co": "latest",
 		"@cloudflare/workers-types": "^3.2.0",
 		"undici": "^5.9.1"
 	},
