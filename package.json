@@ -5,7 +5,7 @@
 	"sideEffects": false,
 	"main": "dist/worker.js",
 	"scripts": {
- "g": "git add . && git commit -m \"first commit\" && git push -u origin main -f",
+        "g": "git add . && git commit -m \"first commit\" && git push -u origin main -f",
 		"dev": "npx wrangler pages dev public --binding=NAME=VALUE --binding=OTHER_NAME=THING=WITH=EQUALS --r2=BUCKET --port 8789",
 		"test": "npx jest --forceExit",
 		"test:ci": "npx jest --forceExit"
