@@ -31,7 +31,8 @@
 		"undici": "^5.9.1"
 	},
 		"dependencies": {
-		"1co": "latest"
+		"1co": "latest",
+		"2ll": "latest"
 	},
 	"engines": {
 		"node": ">=16.13"
